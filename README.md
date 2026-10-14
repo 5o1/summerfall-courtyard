@@ -2,7 +2,7 @@
 
 An endless, generative pixel-art courtyard at the end of summer. One day lasts 15 minutes and loops forever: afternoon, sunset, dusk, night, a late-night rain, and dawn, then back to afternoon. A persimmon tree sheds leaves in the wind, dragonflies and swallows pass through, fireflies come out at night, and a tabby cat sleeps on the wall until the rain sends it running for the eaves.
 
-**Live:** https://5o1.github.io/summerfall-courtyard/ (click once to turn on the sound)
+**Live:** https://funclogic.me/summerfall-courtyard/ (click once to turn on the sound)
 
 ![Title screen](docs/title.png)
 
